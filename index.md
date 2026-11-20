@@ -41,13 +41,17 @@ metadata format.
 
 ### History of the project
 
-The series is a collaborative project started in 2009 by the
+The series (ISSN 2296-0554) is a collaborative project started in 2009 by the
 [Institute of Musicology of Fribourg University](http://www.unifr.ch/musicologie/)
-and the [Swiss RISM Office](http://www.rism-ch.org),
+and the [Swiss RISM Office](https://rism.digital/rism-ch.html),
 with the support of the
-[Swiss National Science Foundation](http://www.snf.ch).
+[Swiss National Science Foundation](http://www.snf.ch) (project No. 100012-124416). Since 2011, the series has been open to collaboration from researchers and institutions worldwide. 
 
-Since 2011, the series has been open to collaboration from researchers and institutions worldwide. Proposals for inclusion of a historical inventory in the series should be addressed to the working group. The new collaborator will receive a user password and the cataloguing guidelines. Images of the historical inventories are a distinctive and desired feature of the series. The edition is then revised before online publication.
+Working group members:
+Prof. Luca Zoppelli (head)
+Claudio Bacciagaluppi
+Luigi Collarile
+Laurent Pugin
 
 For any feedback or queries please contact the
 [working group](mailto:inventories@rism-ch.org).
