@@ -9,11 +9,13 @@ permalink: inventories.html
 
 ## Inventories in RISM
 
-Inventories are now catalogued in Muscat and published in RISM Online. You can search and browse the current list of inventories directly in [RISM Online](https://rism.online/search?mode=sources&fq=material-content-types%3AInventory&page=1&rows=100).
+From 2010 to 2023, data were entered using a separate instance of the 2010 version of the RISM cataloguing software. In 2025/26, all data were migrated from the original database into the RISM dataset, as it was no longer viable to maintain a distinct database. The project and each of the volumes published so far are now also described in [RISM Online](https://rism.online/institutions/51009794). 
+
+Further inventories can be now catalogued in the current Muscat version and published in RISM Online. You can search and browse the current list of inventories directly in [RISM Online](https://rism.online/search?mode=sources&fq=material-content-types%3AInventory&page=1&rows=100).
 
 ### Initial list of inventories
 
-For documentation purposes, this is the list of inventories catalogues in the original database and published as distinct publications. They all have been migrated into RISM.
+For documentation purposes, this is the list of inventories catalogues in the original database and published as distinct publications. They all have been migrated in 2025/26.
 
 - [The Beromünster Inventory (1696)](https://rism.online/sources/1001316750), ed. Claudio Bacciagaluppi and Luigi Collarile, 2010 (Historical Music Inventories, 1), DOI: [10.5448/RISM-d-lib-005](https://doi.org/10.5448/RISM-d-lib-005)
 
